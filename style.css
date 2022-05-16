@@ -1,0 +1,47 @@
+#bg
+{
+    background-color: crimson;
+    color: beige;
+}
+
+.l
+{
+color:rgb(64, 228, 19)
+}
+
+#camera
+{
+    height:360px;
+    width:250px;
+    border-style:ridge ;
+    border: 10px;
+}
+
+#t{
+    font-family: cursive;
+    
+}
+
+.king
+{
+    height:300px;
+    width:600px;
+border-width:20px ;
+border-style:double ;
+}
+
+.lime
+{
+    height:400px;
+    width:300px;
+    border-width:20px ;
+border-style:double ;
+}
+
+.king:hover{
+    transform:rotate(10deg);
+}
+
+.lime:hover{
+    transform:rotate(10deg);
+}
